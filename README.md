@@ -1,6 +1,7 @@
 # reader-replit
 
 ## 鸣谢
+- [hectorqin/reader](https://github.com/hectorqin/reader)
 - [andbruibm/reader-replit](https://github.com/andbruibm/reader-replit)
 
 ## 在 Replit 免费服务上部署 阅读3服务器版
